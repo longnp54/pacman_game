@@ -1,0 +1,24 @@
+﻿  ConvertSketch.cpp
+  DrawMap.cpp
+  DrawText.cpp
+D:\Visual_Studio\pacman_vs11\pacman\DrawText.cpp(7,8): warning C4273: 'round': inconsistent dll linkage
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(537,44):
+      see previous definition of 'round'
+  
+  Ghost.cpp
+D:\Visual_Studio\pacman_vs11\pacman\Ghost.cpp(232,7): warning C4101: 'imap2': unreferenced local variable
+  GhostManager.cpp
+  Main.cpp
+D:\Visual_Studio\pacman_vs11\pacman\Main.cpp(87,29): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+D:\Visual_Studio\pacman_vs11\pacman\Main.cpp(87,29): warning C4244:         with
+D:\Visual_Studio\pacman_vs11\pacman\Main.cpp(87,29): warning C4244:         [
+D:\Visual_Studio\pacman_vs11\pacman\Main.cpp(87,29): warning C4244:             _Rep=__int64
+D:\Visual_Studio\pacman_vs11\pacman\Main.cpp(87,29): warning C4244:         ]
+  MapCollision.cpp
+  Pacman.cpp
+     Creating library D:\Visual_Studio\pacman_vs11\Release\pacman.lib and object D:\Visual_Studio\pacman_vs11\Release\pacman.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 212 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  pacman.vcxproj -> D:\Visual_Studio\pacman_vs11\Release\pacman.exe

@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual_Studio\\pacman_vs11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|D:\\Visual_Studio\\pacman_vs11\\pacman\\DrawText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|solutionrelative:pacman\\DrawText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|D:\\Visual_Studio\\pacman_vs11\\pacman\\Headers\\Global.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|solutionrelative:pacman\\Headers\\Global.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|D:\\Visual_Studio\\pacman_vs11\\pacman\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|solutionrelative:pacman\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|D:\\Visual_Studio\\pacman_vs11\\pacman\\GhostManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|solutionrelative:pacman\\GhostManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|D:\\Visual_Studio\\pacman_vs11\\pacman\\Ghost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|solutionrelative:pacman\\Ghost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|D:\\Visual_Studio\\pacman_vs11\\pacman\\MapCollision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|solutionrelative:pacman\\MapCollision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|D:\\Visual_Studio\\pacman_vs11\\pacman\\Images\\Font.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|solutionrelative:pacman\\Images\\Font.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|D:\\Visual_Studio\\pacman_vs11\\pacman\\DrawMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|solutionrelative:pacman\\DrawMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|D:\\Visual_Studio\\pacman_vs11\\pacman\\ConvertSketch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|solutionrelative:pacman\\ConvertSketch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|D:\\Visual_Studio\\pacman_vs11\\pacman\\Pacman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{947503A3-BA23-4D7E-AC05-3D4156B3422F}|pacman\\pacman.vcxproj|solutionrelative:pacman\\Pacman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.hpp",
+              "DocumentMoniker": "D:\\Visual_Studio\\pacman_vs11\\pacman\\Headers\\Global.hpp",
+              "RelativeDocumentMoniker": "pacman\\Headers\\Global.hpp",
+              "ToolTip": "D:\\Visual_Studio\\pacman_vs11\\pacman\\Headers\\Global.hpp",
+              "RelativeToolTip": "pacman\\Headers\\Global.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-21T17:57:54.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapCollision.cpp",
+              "DocumentMoniker": "D:\\Visual_Studio\\pacman_vs11\\pacman\\MapCollision.cpp",
+              "RelativeDocumentMoniker": "pacman\\MapCollision.cpp",
+              "ToolTip": "D:\\Visual_Studio\\pacman_vs11\\pacman\\MapCollision.cpp",
+              "RelativeToolTip": "pacman\\MapCollision.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T17:23:39.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GhostManager.cpp",
+              "DocumentMoniker": "D:\\Visual_Studio\\pacman_vs11\\pacman\\GhostManager.cpp",
+              "RelativeDocumentMoniker": "pacman\\GhostManager.cpp",
+              "ToolTip": "D:\\Visual_Studio\\pacman_vs11\\pacman\\GhostManager.cpp",
+              "RelativeToolTip": "pacman\\GhostManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T17:23:38.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ghost.cpp",
+              "DocumentMoniker": "D:\\Visual_Studio\\pacman_vs11\\pacman\\Ghost.cpp",
+              "RelativeDocumentMoniker": "pacman\\Ghost.cpp",
+              "ToolTip": "D:\\Visual_Studio\\pacman_vs11\\pacman\\Ghost.cpp",
+              "RelativeToolTip": "pacman\\Ghost.cpp",
+              "ViewState": "AgIAAAECAAAAAAAAAAAwwCgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T17:23:37.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DrawMap.cpp",
+              "DocumentMoniker": "D:\\Visual_Studio\\pacman_vs11\\pacman\\DrawMap.cpp",
+              "RelativeDocumentMoniker": "pacman\\DrawMap.cpp",
+              "ToolTip": "D:\\Visual_Studio\\pacman_vs11\\pacman\\DrawMap.cpp",
+              "RelativeToolTip": "pacman\\DrawMap.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T17:23:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConvertSketch.cpp",
+              "DocumentMoniker": "D:\\Visual_Studio\\pacman_vs11\\pacman\\ConvertSketch.cpp",
+              "RelativeDocumentMoniker": "pacman\\ConvertSketch.cpp",
+              "ToolTip": "D:\\Visual_Studio\\pacman_vs11\\pacman\\ConvertSketch.cpp",
+              "RelativeToolTip": "pacman\\ConvertSketch.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T17:23:35.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pacman.cpp",
+              "DocumentMoniker": "D:\\Visual_Studio\\pacman_vs11\\pacman\\Pacman.cpp",
+              "RelativeDocumentMoniker": "pacman\\Pacman.cpp",
+              "ToolTip": "D:\\Visual_Studio\\pacman_vs11\\pacman\\Pacman.cpp",
+              "RelativeToolTip": "pacman\\Pacman.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T17:22:45.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawText.cpp",
+              "DocumentMoniker": "D:\\Visual_Studio\\pacman_vs11\\pacman\\DrawText.cpp",
+              "RelativeDocumentMoniker": "pacman\\DrawText.cpp",
+              "ToolTip": "D:\\Visual_Studio\\pacman_vs11\\pacman\\DrawText.cpp",
+              "RelativeToolTip": "pacman\\DrawText.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T17:23:36.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Font.png",
+              "DocumentMoniker": "D:\\Visual_Studio\\pacman_vs11\\pacman\\Images\\Font.png",
+              "RelativeDocumentMoniker": "pacman\\Images\\Font.png",
+              "ToolTip": "D:\\Visual_Studio\\pacman_vs11\\pacman\\Images\\Font.png",
+              "RelativeToolTip": "pacman\\Images\\Font.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-21T17:36:20.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Visual_Studio\\pacman_vs11\\pacman\\Main.cpp",
+              "RelativeDocumentMoniker": "pacman\\Main.cpp",
+              "ToolTip": "D:\\Visual_Studio\\pacman_vs11\\pacman\\Main.cpp",
+              "RelativeToolTip": "pacman\\Main.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T17:43:25.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
